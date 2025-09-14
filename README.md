@@ -49,10 +49,10 @@ I am a passionate and results-driven data professional specializing in End-to-En
 #### **Generative AI & NLP**
 <p align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
-  <img src="https://vectorlogoseek.com/wp-content/uploads/2021/01/langchain-logo-vector.png" title="LangChain" alt="LangChain" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/raghav-maheshwari/icons/main/llama.svg" title="Llama" alt="Llama" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/jupyter/jupyter/main/docs/static/logo.svg" title="LlamaIndex" alt="LlamaIndex" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/source/_static/langchain-logo.png" title="LangChain" alt="LangChain" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/raghav-maheshwari/icons/main/llama.svg" title="Llama" alt="Llama" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/LlamaIndex/llama_index/main/docs/source/_static/llama_index_logo.svg" title="LlamaIndex" alt="LlamaIndex" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Gemini" alt="Google Gemini" width="40" height="40"/>&nbsp;
 </p>
 
