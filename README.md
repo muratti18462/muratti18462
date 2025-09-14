@@ -24,8 +24,6 @@ I am a passionate and results-driven data professional specializing in End-to-En
 
 ### 💻 Languages & Tools
 
-A curated selection of the technologies and tools I work with.
-
 #### **Core Data & ML Stack**
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
