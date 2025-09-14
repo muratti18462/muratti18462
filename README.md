@@ -7,11 +7,17 @@
 Expert in End-to-End Data Solutions: Machine Learning, Data Analysis, and AI
 
 🎓 Natural Language Processing Student in Trier University<br>
+
 👨🏻‍💻 Former Allianz Data Scientist, currently working at BASF as Intern<br>
+
 🔭 I’m currently working on Generative AI Projects<br>
+
 💬 Ask me about Data Analysis, Data Science & AI<br>
+
 🧠 Currently learning Generative AI<br>
+
 ⚡ Fun fact I am an excellent cook<br>
+
 ✔️ Reach me at: [dmrlymrt80@gmail.com](mailto:dmrlymrt80@gmail.com)
 
 ### Languages and Tools :
