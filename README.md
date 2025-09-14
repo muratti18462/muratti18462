@@ -13,11 +13,17 @@
 I am a passionate and results-driven data professional specializing in End-to-End Data Solutions, with a strong focus on Machine Learning, Data Analysis, and Generative AI. I thrive on transforming complex data into actionable insights and intelligent systems.
 
 - 🎓 **Data Science Graduate** from Trier University.
+- 
 - 👨🏻‍💻 **Former Allianz Data Scientist**, currently contributing as an **Intern** at BASF.
+- 
 - 🔭 I am currently immersed in projects focused on **Generative AI** and its applications.
+- 
 - 💬 **Ask me about:** Data Analysis, Data Science, Machine Learning, and AI.
+- 
 - 🧠 **Currently learning:** Advanced Generative AI architectures and MLOps.
+- 
 - ⚡ **Fun fact:** I am an excellent cook and love experimenting with new recipes in my free time.
+- 
 - ✔️ **Reach me at:** [dmrlymrt80@gmail.com](mailto:dmrlymrt80@gmail.com)
 
 ---
