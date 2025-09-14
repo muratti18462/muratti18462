@@ -12,7 +12,7 @@
 
 I am a passionate and results-driven data professional specializing in End-to-End Data Solutions, with a strong focus on Machine Learning, Data Analysis, and Generative AI. I thrive on transforming complex data into actionable insights and intelligent systems.
 
-- 🎓 **Natural Language Processing Student** at Trier University.
+- 🎓 **Data Science Graduate** from Trier University.
 - 👨🏻‍💻 **Former Allianz Data Scientist**, currently contributing as an **Intern** at BASF.
 - 🔭 I am currently immersed in projects focused on **Generative AI** and its applications.
 - 💬 **Ask me about:** Data Analysis, Data Science, Machine Learning, and AI.
