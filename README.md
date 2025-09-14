@@ -4,7 +4,7 @@
 
 ### About Me :
 
-Expert in End-to-End Data Solutions:Machine Learning, Data Analysis, and AI
+Expert in End-to-End Data Solutions: Machine Learning, Data Analysis, and AI
 
 🎓 Natural Language Processing Student in Trier University<br>
 👨🏻‍💻 Former Allianz Data Scientist, currently working at BASF as Intern<br>
