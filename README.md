@@ -7,7 +7,7 @@
 Expert in End-to-End Data Solutions:Machine Learning, Data Analysis, and AI
 
 🎓 Natural Language Processing Student in Trier University<br>
-👨🏻‍💻 Working at BASF as intern<br>
+👨🏻‍💻 Working at BASF as Intern<br>
 💭 Ask me about <b>NLP, Transformers and Data Analysis</b><br>
 🧠 Currently learning Generative AI<br>
 ✔️ Reach me at: [dmrlymrt80@gmail.com](mailto:dmrlymrt80@gmail.com)
