@@ -44,17 +44,10 @@ I am a passionate and results-driven data professional specializing in End-to-En
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" width="80" height="80"/>&nbsp;
   <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow Badge" width="80" height="80"/>&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark Badge" width="80" height="80"/>&nbsp;
-  </p>
-
-#### **Generative AI & NLP**
-<p align="center">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" width="80" height="80"/>&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/source/_static/langchain-logo.png" title="LangChain" alt="LangChain" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/raghav-maheshwari/icons/main/llama.svg" title="Llama" alt="Llama" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/LlamaIndex/llama_index/main/docs/source/_static/llama_index_logo.svg" title="LlamaIndex" alt="LlamaIndex" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Gemini" alt="Google Gemini" width="40" height="40"/>&nbsp;
-</p>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI" width="80" height="80"/>
+  </p>
 
 #### **Databases & Cloud**
 <p align="center">
