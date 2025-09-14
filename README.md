@@ -33,7 +33,6 @@ I am a passionate and results-driven data professional specializing in End-to-En
 #### **Core Data & ML Stack**
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -41,7 +40,12 @@ I am a passionate and results-driven data professional specializing in End-to-En
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8cf1837393d83900e767cc895dcc814d053e2ffe/topics/spacy/spacy.png" title="spaCy" alt="spaCy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original-wordmark.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-</p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow Badge" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark Badge" width="40" height="40"/>&nbsp;
+  </p>
 
 #### **Generative AI & NLP**
 <p align="center">
