@@ -1,7 +1,3 @@
-<h1 align="center">
-  Hello, World! I'm MURAT!
-</h1>
-
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc1YzUxNTFnNjgxcWNpZWxyenR3bTI3OThwNm1tdXdjYWN4bTloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" height="300" alt="Generative AI GIF">
 </p>
